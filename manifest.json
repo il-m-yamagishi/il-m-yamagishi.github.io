@@ -2,7 +2,7 @@
  "name": "Masaru Yamagishi Portfolio",
  "short_name": "M.Y",
  "start_url": "index.html?utm_source=homescreen",
- "display": "browser",
+ "display": "standalone",
  "theme_color": "#FF5500",
  "icons": [
   {
